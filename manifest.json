@@ -1,0 +1,11 @@
+{
+	"name": "Exif助手",
+	"description": "Exif助手",
+	"version": "2.2",
+	"manifest_version": 2,
+	"homepage_url":"http://regex.info",
+	"permissions": ["contextMenus"],
+	"background": {
+		"scripts":["bgScript.js"]
+	}
+}
